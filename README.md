@@ -1,2 +1,3 @@
-# PowerBI_Ecom_Sales_Analysis
-PowerBI_Ecom_Sales_Analysis is a dynamic dashboard using Power BI, providing comprehensive insights into ecommerce sales data. It enables businesses to track performance, identify trends, and make informed decisions for growth.
+# Ecom_Sales_Analysis
+Ecom_Sales_Analysis is a dynamic dashboard using Power BI, providing comprehensive insights into ecommerce sales data. It enables businesses to track performance, identify trends, and make informed decisions for growth.
+"In this data analysis it leverages Python libraries such as numpy, pandas, matplotlib, and seaborn to perform comprehensive data manipulation, visualization, and statistical analysis. These tools enable businesses to extract valuable insights, optimize strategies, and make informed decisions for improved sales and customer satisfaction in the digital marketplace."
